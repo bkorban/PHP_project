@@ -1,0 +1,74 @@
+/*	Green (Hex #008000)
+        Yellow (Hex #FFFF00)*/
+
+body{
+    background-color: white;
+    color: black;
+}
+
+nav{
+    font-weight: bold;
+    background-color: #008000;
+}
+
+
+
+header {
+    background-color: white;
+}
+
+.main{
+    background-color: white;
+    color: black;
+}
+
+footer{
+    font-size: 10px;
+    background-image: url("../images/bottom.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+
+#footerContactUs{
+    font-size: 10px;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+}
+
+#copyright{
+    background-color: #FFFF00;
+}
+
+#logo{
+    font-family: "Helvetica", Arial, sans-serif;;
+}
+
+#sideNav{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.blog{
+    background-color: #008000;
+}
+
+
+.container {
+    font-family: 'Montserrat', sans-serif;
+    margin: 60px auto;
+}
+
+.container-fluid {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.flex-fill {
+    flex:1
+}
+
