@@ -1,0 +1,2 @@
+# PHP_project
+A dynamic website  that is using PHP. Pages included: home page with logo, images and main content, about us page, a blog page with links that send visitors to other related websites, calendar page that contains the calendar with events,  donate page with a donation form, shop page when user can search for a gift and add it to the shopping cart, contact details page. In addition user can register, login and logout.
